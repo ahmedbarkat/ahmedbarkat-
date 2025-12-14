@@ -47,8 +47,9 @@ System to manage **student credits, course registration, and academic records** 
 
 ## Contact Me
 - 📧 Email: ahmedbarakatsamra@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/ahmed-barakat-dev](https://www.linkedin.com/in/ahmed-barakat-dev)  
-- GitHub: [github.com/ahmedbarakat](https://github.com/ahmedbarakat)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-barakat-8b7b9922/)  
+🔗 [GitHub](https://github.com/ahmedbarkat)
+
 
 ---
 
