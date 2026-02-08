@@ -64,7 +64,7 @@ I enjoy **mentoring teams**, solving complex problems, and designing systems tha
 ## 📫 Contact Me
 
 - 📧 Email: [ahmedbarakatsamra@gmail.com](mailto:ahmedbarakatsamra@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedfathallahbarakat)  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/ahmedfathallahbarakat](https://www.linkedin.com/in/ahmed-barakat-samra/))  
 - 🔗 [GitHub](https://github.com/ahmedbarkat)
 
 ---
