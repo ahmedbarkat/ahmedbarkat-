@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedbarkat/ahmedbarkat/main/profile-banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmedbarkat/ahmedbarkat-/ahmedbrakatbanner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Fathallah Barakat Samra</h1>
