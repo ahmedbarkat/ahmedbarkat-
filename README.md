@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ahmedbarkat/ahmedbarkat-/blob/main/ahmedbarakatbanner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmedbarkat/ahmedbarkat/main/A_professional_banner_banner_features_Ahmed_Fathal.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Fathallah Barakat Samra</h1>
@@ -19,15 +19,18 @@ I enjoy **mentoring teams**, solving complex problems, and designing systems tha
 
 ## 💻 Technical Skills
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, C#, SQL, JavaScript (ES6+) |
-| **Frameworks** | Django, DRF, FastAPI, ASP.NET MVC, Flask |
-| **Databases** | MySQL, PostgreSQL, MongoDB, SQL Server, Redis |
-| **Frontend** | Vue.js (Vue 3, Composition API), Bootstrap |
-| **Architecture & Methods** | Microservices, Event-Driven Architecture, Large-Scale System Design, SOLID, Design Patterns, AsyncIO |
-| **Tools & Infra** | Git, Docker, AWS (EC2, S3, RDS), GitHub Actions, Celery, CI/CD Pipelines |
-| **Other** | Web Scraping, Data Cleaning, Cloud Deployment, Async Workflows, High-Availability Systems |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -57,6 +60,15 @@ I enjoy **mentoring teams**, solving complex problems, and designing systems tha
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbarkat&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbarkat&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 📫 Contact Me
 
 - 📧 Email: [ahmedbarakatsamra@gmail.com](mailto:ahmedbarakatsamra@gmail.com)  
@@ -69,14 +81,3 @@ I enjoy **mentoring teams**, solving complex problems, and designing systems tha
 
 > "Programming is not just writing code; it's about solving problems and building ideas."  
 > — Ahmed Fathallah Barakat Samra
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
