@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-username>/main/profile-banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ahmedbarkat/ahmedbarkat/main/profile-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Fathallah Barakat Samra</h1>
@@ -61,7 +61,7 @@ I enjoy **mentoring teams**, solving complex problems, and designing systems tha
 
 - 📧 Email: [ahmedbarakatsamra@gmail.com](mailto:ahmedbarakatsamra@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmedfathallahbarakat)  
-- 🔗 [GitHub](https://github.com/<your-username>)
+- 🔗 [GitHub](https://github.com/ahmedbarkat)
 
 ---
 
