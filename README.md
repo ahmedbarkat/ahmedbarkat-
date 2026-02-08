@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedbarkat/ahmedbarkat/main/A_professional_banner_banner_features_Ahmed_Fathal.png" alt="Banner" width="100%" />
+  <img src="https://github.com/ahmedbarkat/ahmedbarkat-/blob/main/ahmedbarakatbanner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ahmed Fathallah Barakat Samra</h1>
@@ -59,15 +59,7 @@ I enjoy **mentoring teams**, solving complex problems, and designing systems tha
 > *(Project links will be updated once repositories are uploaded)*
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbarkat&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbarkat&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
+ 
 
 ## 📫 Contact Me
 
